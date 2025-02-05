@@ -1,0 +1,4 @@
+streamlit
+python-pptx
+llama-cpp-python
+python-dotenv
